@@ -1,6 +1,6 @@
 ## My personal Working directory for this project.
 ## Don't un-comment
-setwd("C:/Users/Mare/Documents/Practicas R/C3 - Exploratory Data Analysis/Sem4")
+#setwd("C:/Users/Mare/Documents/Practicas R/C3 - Exploratory Data Analysis/Sem4")
 
 ## Creating the directory to save the data and plots
 if (!dir.exists("./data2work")){dir.create("./data2work")}
